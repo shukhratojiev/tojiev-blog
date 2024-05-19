@@ -1,0 +1,16 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 70px;
+    font-family: "Poetsen One", sans-serif;
+}
+.footer h3{
+    margin-top: 40px;
+}
+
+@media(max-width: 800px){
+    .footer h3{
+        font-size: 15px;
+    }  
+}

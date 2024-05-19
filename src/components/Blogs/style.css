@@ -1,0 +1,23 @@
+.blogPage {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    font-family: "Ubuntu", sans-serif;
+}
+.pageName {
+    display: flex;
+    justify-content: center;
+    margin-left: 300px;
+    margin-right: 300px;;
+    border-bottom: 0.5px groove;
+}
+.pageName h1 {
+    margin: 50px;
+}
+.detailedInfo {
+    background-color: blue;
+}
+  
+@media(max-width: 800px){
+
+}
