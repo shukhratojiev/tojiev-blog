@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import {Routes, Route } from "react-router-dom";
 
 import MainPage from './components/MainPage';
 import Navbar from './components/Navbar';
@@ -10,7 +10,6 @@ import './App.css';
 
 function App() {
   return (
-    <BrowserRouter>
       <div className="body">
         <Navbar />
         <div className="middle">
@@ -23,7 +22,6 @@ function App() {
         </div>
         <Footer />
       </div>
-    </BrowserRouter>
   );
 }
 

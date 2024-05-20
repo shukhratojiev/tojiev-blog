@@ -1,23 +1,27 @@
 .projectPage {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
     width: 100%;
     font-family: "Ubuntu", sans-serif;
 }
-.pageName {
+.projectPageName {
     display: flex;
     justify-content: center;
-    margin-left: 300px;
-    margin-right: 300px;;
+    width: 60%;
     border-bottom: 0.5px groove;
 }
-.pageName h1 {
+.projectPageName h1 {
     margin: 50px;
 }
-.detailedInfo {
+.projectDetailedInfo {
     background-color: blue;
 }
   
 @media(max-width: 800px){
-
+    .projectPageName h1 {
+        font-size: 15px;
+        margin: 30px;
+    }
 }

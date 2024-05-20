@@ -3,10 +3,10 @@ import './style.css';
 const Projects = () => {
     return ( 
         <div className="projectPage">
-            <div className="pageName">
+            <div className="projectPageName">
                 <h1>Projects</h1>
             </div>
-            <div className="detailedInfo">
+            <div className="projectDetailedInfo">
     
             </div>
         </div>

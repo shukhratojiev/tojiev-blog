@@ -1,12 +1,11 @@
 import logo from '../../assets/photo/tojiev.png';
-import './style.css';
 import { Button } from '@mui/material';
 import { SocialIcon } from 'react-social-icons';
 import { Link } from 'react-router-dom';
 
+import './style.css';
 
 const MainPage = () => {
-   
   return (
       <div className="main-content">
         <div className="photo">
