@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tojiev-blog/static/css/main.ddc4e8a1.css",
-    "main.js": "/tojiev-blog/static/js/main.3e134e34.js",
+    "main.js": "/tojiev-blog/static/js/main.3935543e.js",
     "static/media/tojiev.png": "/tojiev-blog/static/media/tojiev.4fcfc445b530f79ebf29.png",
     "index.html": "/tojiev-blog/index.html",
     "main.ddc4e8a1.css.map": "/tojiev-blog/static/css/main.ddc4e8a1.css.map",
-    "main.3e134e34.js.map": "/tojiev-blog/static/js/main.3e134e34.js.map"
+    "main.3935543e.js.map": "/tojiev-blog/static/js/main.3935543e.js.map"
   },
   "entrypoints": [
     "static/css/main.ddc4e8a1.css",
-    "static/js/main.3e134e34.js"
+    "static/js/main.3935543e.js"
   ]
 }
